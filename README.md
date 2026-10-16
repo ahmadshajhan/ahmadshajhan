@@ -1,93 +1,80 @@
-
-<!-- Profile README for GitHub -->
+<h1 align="center">Ahmad Shajahan</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px">
+  AI / ML Engineer &nbsp;|&nbsp; B.Tech Computer Science (2028) &nbsp;|&nbsp; Kerala, India
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#4A90E2;">Mr Code (Ahmad Shajahan)</span></h1>
-<h3 align="center">AI Developer | Java Enthusiast | Web Developer | Open Source Lover</h3>
-
----
-
-## 🚀 About Me
-- 💻 AI & Web Developer with strong expertise in **Java, Python, AI, ML, Data Science, and Full-Stack Development**  
-- 🌱 Currently working on **Java Spring Boot, Django, AI projects, and modern web apps**  
-- 🎯 Passionate about **building modern, stylish, and scalable applications**  
-- 📫 Contact me: **ahmadshajahan2000@gmail.com**  
-- 📞 Phone: **+91 8089021973**  
-
----
-
-## 🌍 Portfolio & Websites
-- 🌐 [Resume 1](https://mrcode11.netlify.app/resume2)  
-- 🌐 [Resume 2](https://mrcode11.netlify.app/div2)  
-- 🌐 [Main Website](https://mrcodeahmad.com/)  
-- 🌐 [Python Projects](https://mrcodeahmad.com/python)  
-- 🌐 [JavaScript Projects](https://mrcodeahmad.com/javascript-projects-main/)  
-- 🌐 [Dashboard](https://mrcodeahmad.com/dashboard-main/)  
-- 🌐 [Nexsou](https://www.nexsou.com/)  
-- 🌐 [AI Projects](https://mrcode-ai.netlify.app/)  
-- 🌐 [Data Science](https://mrcodeahmad.com/datasci)  
-
----
-
-## 🔗 Connect with Me
 <p align="center">
-  <a href="https://github.com/ahmadshajhan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mr-code-9567b333b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/MrCode59636?s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/mr_code_ahmad"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/share/15wggD8y3b/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="mailto:ahmadshajahan2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ahmadshajhan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/mr-code-9567b333b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/MrCode59636"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="mailto:ahmadshajahan2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://mrcodeahmad.com/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,html,css,tailwind,django,spring,git,github,mysql,postgresql,mongodb,docker,linux,vscode" />
-</p>
+## About
 
----
+I build machine learning systems from the ground up and ship them as working products.
+My work sits between two ends of the stack: implementing models from first principles to understand how they behave, and engineering the retrieval, serving, and evaluation layers that make them useful in production.
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadshajhan&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadshajhan&theme=radical" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadshajhan&layout=compact&theme=radical" alt="langs"/>
-</p>
+I care about measurable behavior over demos: retrieval accuracy, latency, failure modes, and reproducibility.
 
----
+## Focus Areas
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmadshajhan&theme=onedark&no-frame=true&row=1&column=6"/>
-</p>
+| Area | What I work on |
+| :--- | :--- |
+| **Deep learning** | Transformer architectures, training loops, optimization, implementing models from scratch in Python and C |
+| **LLM applications** | Retrieval-augmented generation (RAG), embeddings and vector search, fine-tuning, structured outputs, evaluation |
+| **Agentic systems** | Stateful multi-step workflows and tool use with LangChain and LangGraph |
+| **ML engineering / MLOps** | Model serving with FastAPI, containerized deployment with Docker, experiment tracking, CI |
+| **Full-stack** | Next.js, Spring Boot, Django, PostgreSQL, MongoDB |
 
----
+## Selected Work
 
-## 🎬 Fun Animations
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
-</p>
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **AetherStory** | 863K-parameter decoder-only transformer trained from scratch; published on Hugging Face | PyTorch, Hugging Face |
+| **CTransformer** | Transformer implementation written from scratch in C and Python | C, Python |
+| **laysnet** | Graph-theoretic classifier, published on PyPI | Python |
+| **Sherlock AI** | RAG pipeline with fine-tuning; 85% retrieval accuracy | FastAPI, RAG |
+| **NutriClue** | Multimodal nutrition assistant combining RAG with image classification; 92% accuracy | FastAPI, RAG, EfficientNetB0 |
+| **MAD IDE** | Compiler and IDE for the 1959 MAD language | Python, PyQt6 |
+| **BookMyVenue** | Full-stack venue booking platform | FastAPI, Next.js |
 
----
+Full list of repositories: [github.com/ahmadshajhan?tab=repositories](https://github.com/ahmadshajhan?tab=repositories)
 
-## 📝 Quote
-> "If you take me, you can achieve a lot. Visit my projects and connect fast — because I move quick!" 🚀
+## Currently
 
----
+- Building agentic and RAG systems with an emphasis on evaluation and observability
+- Studying deep learning fundamentals by implementing them: attention, backpropagation, optimizers, tokenizers
+- Developing KeralaDebug, a civic technology platform for community issue reporting in Kerala
+- Open to AI / ML engineering internships
 
-## 📞 Contact Fast
-- Email: **ahmadshajahan2000@gmail.com**  
-- Phone: **+91 8089021973**  
-- GitHub: [ahmadshajhan](https://github.com/ahmadshajhan)  
-- Website: [mrcodeahmad.com](https://mrcodeahmad.com/)  
-
----
+## Tech Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmadshajhan&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,git,linux,postgres,mongodb,java,spring,django,ts,react,nextjs,tailwind,github,vscode" alt="Tech stack"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI"/>
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadshajhan&show_icons=true&theme=github_dark&hide_border=true" height="160" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadshajhan&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top languages"/>
+</p>
+
+## Contact
+
+- Email: [ahmadshajahan2000@gmail.com](mailto:ahmadshajahan2000@gmail.com)
+- Portfolio: [mrcodeahmad.com](https://mrcodeahmad.com/)
+- Resume: [View online](https://mrcode11.netlify.app/resume2)
+- AI projects: [mrcode-ai.netlify.app](https://mrcode-ai.netlify.app/)
