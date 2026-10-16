@@ -75,6 +75,6 @@ Full list of repositories: [github.com/ahmadshajhan?tab=repositories](https://gi
 ## Contact
 
 - Email: [ahmadshajahan2000@gmail.com](mailto:ahmadshajahan3000@gmail.com)
-- Portfolio: [mrcodeahmad.com](https://www.ahmads-blog.tech/)
+- Portfolio: [ahmads-blog.tech](https://www.ahmads-blog.tech/)
 - Resume: [View online](https://mrcode11.netlify.app/resume2)
 - AI projects: [mrcode-ai.netlify.app](https://mrcode-ai.netlify.app/)
